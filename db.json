@@ -1,4 +1,8 @@
 {
+  "response": "success",
+  "results-for": "batman",
+  "results": [
+    {
       "id": "69",
       "name": "Batman",
       "powerstats": {
@@ -147,3 +151,5 @@
         "url": "https://www.superherodb.com/pictures2/portraits/10/100/1496.jpg"
       }
     }
+  ]
+}

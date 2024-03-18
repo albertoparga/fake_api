@@ -1,4 +1,5 @@
-
+{ 
+  "results" : [
 {
   "id": "69",
   "name": "Batman",
@@ -147,4 +148,6 @@
   "image": {
     "url": "https://www.superherodb.com/pictures2/portraits/10/100/1496.jpg"
   }
+}
+]
 }
